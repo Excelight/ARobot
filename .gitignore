@@ -1,0 +1,5 @@
+node_modules
+.DS_Store
+.idea
+screencap/*.png
+screencap_archive/*.png
